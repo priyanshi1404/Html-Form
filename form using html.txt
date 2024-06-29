@@ -76,7 +76,7 @@ Password:
 
 
 
-
+<! This is the second code. !>
 
 
 
@@ -157,7 +157,6 @@ Password:
   
   </form>
 
-
 <p><h3> Choice*3</h3></p>
 <form action="/action_page.php">
   <input type ="radio" id="cyber" name="specialization" value="cyber">
@@ -174,11 +173,7 @@ Password:
   <label for="chip">Chip Designing</label><br><br>
   <input type="submit" value="Submit">
   
- 
 </form>
-
-
-
 
 </body>
 </html>
