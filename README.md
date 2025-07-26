@@ -21,7 +21,7 @@ A modern, responsive registration form built using **HTML, CSS, and JavaScript**
 
 ## 📸 Preview
 
-![Registration Form Screenshot](preview.png)
+![Registration Form Screenshot](preview.png)(preview1.png)
 ---
 
 ## 🛠️ Tech Stack
