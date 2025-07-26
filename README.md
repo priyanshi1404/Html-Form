@@ -12,7 +12,7 @@ A modern, responsive registration form built using **HTML, CSS, and JavaScript**
 ## ✨ Features
 
 - **Dark Mode Toggle:** Easily switch between light and dark themes using a toggle button.
-- **Custom Dropdown:** Beautiful dropdown with a caret icon using Font Awesome.
+- **Custom Dropdown:** Beautiful box with a house icon using Font Awesome.
 - **Dynamic Specializations:** When "B.Tech" is selected, a second dropdown appears for selecting specializations.
 - **Form Validation:** Email, password, and phone number validation with custom error messages.
 - **Responsive Design:** Works well on all screen sizes and mobile devices.
