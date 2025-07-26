@@ -19,6 +19,7 @@
     </div>
 
     <div class="container">
+      
       <h2>Registration Form</h2>
       <form id="registrationForm" action="/action_page.php">
         <label for="firstname">Firstname</label>
@@ -26,6 +27,9 @@
 
         <label for="lastname">Lastname</label>
         <input type="text" id="lastname" name="lastname" required />
+
+         <label for="dob">Date of Birth</label>
+        <input type="date" id="dob" name="dob" required />
 
         <!--  for courses-->
 
@@ -135,6 +139,11 @@
 
         <label for="pass">Password</label>
         <input type="password" id="pass" name="pass" placeholder="Password must be min 6 char long" required />
+
+        <div class="terms">
+          <input type="checkbox" id="terms" required />
+          <label for="terms">I agree to the <a href="terms.html" target="_blank">terms and conditions</a>.</label>
+        </div>
 
         <div class="form-actions">
           <input type="submit" value="Submit" />
