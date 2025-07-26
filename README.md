@@ -31,5 +31,5 @@ A modern, responsive registration form built using **HTML, CSS, and JavaScript**
 - **HTML5** – Structure of the form
 - **CSS3** – Styling and responsive design
 - **JavaScript (Vanilla)** – Form validation + dynamic dropdown + theme toggle
-- **Font Awesome** – Icon for dropdown styling
+- **Font Awesome** – Icon for Return to Home Page styling in T&C page
 
